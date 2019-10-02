@@ -11,4 +11,7 @@ public class Definition {
         this.str = str;
     }
 
+    public Definition(String str) {
+        this.str = str;
+    }
 }
